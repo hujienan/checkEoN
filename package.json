@@ -1,0 +1,22 @@
+{
+  "name": "checkeon",
+  "version": "1.0.0",
+  "description": "Check whether a given string is empty or null.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hujienan/checkeon.git"
+  },
+  "keywords": [
+    "check"
+  ],
+  "author": "Jet Hu <hujienanmoon@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hujienan/checkeon/issues"
+  },
+  "homepage": "https://github.com/hujienan/checkeon#readme"
+}
