@@ -6,7 +6,7 @@ A Node.js package that checks whether a given string is empty or null.
 
 * First, install the package using npm:  
 
-	npm insall checkeon --save
+	npm install checkeon --save
 
 * Then, require it and use it like below:  
 	
